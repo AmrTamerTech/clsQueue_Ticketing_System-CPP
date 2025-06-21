@@ -1,0 +1,10 @@
+﻿  clsQueueLine.cpp
+D:\clsQueue_Ticketing_System-CPP\Smart Ticket Queue Library\Smart Ticket Queue Library\clsQueueLine.h(92,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'clsQueueLine.cpp')
+  
+  Source.cpp
+D:\clsQueue_Ticketing_System-CPP\Smart Ticket Queue Library\Smart Ticket Queue Library\clsQueueLine.h(92,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+  Generating Code...
+  Smart Ticket Queue Library.vcxproj -> D:\clsQueue_Ticketing_System-CPP\Smart Ticket Queue Library\x64\Debug\Smart Ticket Queue Library.exe
